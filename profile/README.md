@@ -40,8 +40,8 @@
    <a href="https://discordjs" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" alt="discordjs" width="70" height="70" />
     </a>
-    <a href="https://discordjs" target="_blank" rel="noreferrer">
-     <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="junit" width="70" height="70" />
+    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+     <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="junit" width="60" height="60" />
     </a>
 
   <h3>Environnement</h3>
